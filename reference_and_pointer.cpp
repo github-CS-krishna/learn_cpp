@@ -48,5 +48,7 @@ int main(){
     p0 = p0 + 1;
     cout << "p0 = " << p0 << " value = " << *p0 << endl;
 
+
+
     return 0;
 }
